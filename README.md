@@ -5,3 +5,5 @@
 2、github actions support platforms:   https://github.com/docker/setup-qemu-action
 
 3、**password**:DOCKERHUB_TOKEN  `username:DOCKER_HUB_USER_NAME`
+
+4、/var/lib/docker/volumes/mini-express/
